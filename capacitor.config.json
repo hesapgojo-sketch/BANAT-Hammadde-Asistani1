@@ -1,0 +1,7 @@
+{
+  "appId": "com.banat.soner.hammadde",
+  "appName": "BANAT Hammadde Asistanı",
+  "webDir": "dist",
+  "server": {"androidScheme": "https"},
+  "plugins": {"LocalNotifications": {"smallIcon": "ic_stat_icon", "iconColor": "#3268d8"}}
+}
